@@ -1,0 +1,24 @@
+{
+  "name": "ebac-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QA-ThalitaOyara/Ebac-Cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QA-ThalitaOyara/Ebac-Cypress/issues"
+  },
+  "homepage": "https://github.com/QA-ThalitaOyara/Ebac-Cypress#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.10.0"
+  }
+}

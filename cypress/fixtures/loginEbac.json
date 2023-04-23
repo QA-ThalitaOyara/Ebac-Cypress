@@ -1,0 +1,17 @@
+{
+    "Login": {
+        "usuario": "teste1-man@avengers.com",
+        "senha": "GD*peToHNJ1#c$sgk08EaYJQ"
+    },
+    "Checkout": {
+        "nome": "Teste",
+        "sobrenome": "Ebac",
+        "empresa": "Ebac",
+        "pais": "Brasil",
+        "endereco": "Rua 2 de almeida",
+        "cidade": "Sorocaba",
+        "estado": "São Paulo",
+        "cep": "13144550",
+        "telefone": "963258741"
+    }
+}
